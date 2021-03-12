@@ -1,7 +1,4 @@
-# Sorry, this plugin not supported anymore.
-# But you can try some alternative: [here](https://github.com/averrin/color-tabs-regex/issues/18)
-
-# color-tabs-regex package
+# awesome-color-tabs-regex package
 
 Use color-tabs package with regex.
 
